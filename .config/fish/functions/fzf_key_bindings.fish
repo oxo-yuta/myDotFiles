@@ -1,0 +1,1 @@
+/mnt/c/Users/Yuta-Okuzono/.fzf/shell/key-bindings.fish
